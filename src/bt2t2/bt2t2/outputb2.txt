@@ -1,0 +1,4 @@
+File nhap vao: a
+Context 1: Tim kiem tu khoa 
+	 Tu khoa: hh
+	 So lan xuat hien: 0
